@@ -404,7 +404,7 @@ with tab_text:
                     st.dataframe(df_meta, use_container_width=True)
 
 # -------------------------
-# TAB 2: Imagen -> Imágenes (upload)
+# TAB 2: Imagen -> Imágenes (upload) ddd
 # -------------------------
 with tab_img:
     st.write("Sube una imagen (JPG/PNG/WebP) y buscamos obras visualmente similares.")
