@@ -329,7 +329,7 @@ def render_cards(df_meta: pd.DataFrame, cols_n: int, show_n: int):
 
 
 
-# -------------------------
+# --------------------------
 # App
 # -------------------------
 st.title(" Buscador  (CLIP + FAISS )")

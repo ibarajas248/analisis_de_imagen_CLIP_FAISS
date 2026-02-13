@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="x" />
+    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="Remove Streamlit secrets from repo_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,11 +121,46 @@
       <option name="project" value="LOCAL" />
       <updated>1771005747234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove Streamlit secrets from repo">
+      <option name="closed" value="true" />
+      <created>1771006578014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006578014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Remove Streamlit secrets from repo">
+      <option name="closed" value="true" />
+      <created>1771006595858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006595858</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Remove Streamlit secrets from repo">
+      <option name="closed" value="true" />
+      <created>1771006608655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006608655</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Remove Streamlit secrets from repo_">
+      <option name="closed" value="true" />
+      <created>1771006658109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006658109</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="x" />
-    <option name="LAST_COMMIT_MESSAGE" value="x" />
+    <MESSAGE value="13_02_2026" />
+    <MESSAGE value="Remove Streamlit secrets from repo" />
+    <MESSAGE value="Remove Streamlit secrets from repo_" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Streamlit secrets from repo_" />
   </component>
 </project>
