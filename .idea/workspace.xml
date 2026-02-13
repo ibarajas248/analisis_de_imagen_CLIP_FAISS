@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="x">
-      <change afterPath="$PROJECT_DIR$/.streamlit/secrets.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1986.3_bodegon-gato-pescado.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MANZNA-ROJA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analisis_de_imagen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analisis_de_imagen.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analisis_de_imagen_documentado.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip_vitb32.index" beforeDir="false" afterPath="$PROJECT_DIR$/data_img.csv" afterDir="false" />
-    </list>
+    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="x" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769721296629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="x">
+      <option name="closed" value="true" />
+      <created>1771005432532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771005432532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="x">
+      <option name="closed" value="true" />
+      <created>1771005747234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771005747234</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

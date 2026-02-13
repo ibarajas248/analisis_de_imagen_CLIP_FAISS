@@ -309,7 +309,7 @@ def render_cards(df_meta: pd.DataFrame, cols_n: int, show_n: int):
             else:
                 st.info("Sin imagen")
 
-            st.markdown(f"**{title}**")
+            st.markdown(f"**{title}**")#s
             if artist:
                 st.markdown(f"<div class='small'>{artist}</div>", unsafe_allow_html=True)
 
