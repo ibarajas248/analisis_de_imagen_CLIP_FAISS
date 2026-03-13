@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="Remove Streamlit secrets from repo_" />
+    <list default="true" id="6f43cbc0-9e03-43bf-bc41-138a482e190e" name="Changes" comment="----">
+      <change afterPath="$PROJECT_DIR$/deploy_dos/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variantes/appClippFaissGate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variantes/filtros_inteligentes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variantes/filtros_inteligentes_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variantes/mapa_de_similitud_por_busqueda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +58,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\David\PycharmProjects\proyectos_organizados\humanidades_digitales\analisis_de_imagen" />
+      <recent name="C:\Users\David\PycharmProjects\proyectos_organizados\humanidades_digitales\analisis_de_imagen\variantes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\David\PycharmProjects\proyectos_organizados\humanidades_digitales\analisis_de_imagen" />
@@ -153,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771006658109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="----">
+      <option name="closed" value="true" />
+      <created>1771007532965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771007532965</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +177,8 @@
     <MESSAGE value="13_02_2026" />
     <MESSAGE value="Remove Streamlit secrets from repo" />
     <MESSAGE value="Remove Streamlit secrets from repo_" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Streamlit secrets from repo_" />
+    <MESSAGE value="index_faiss" />
+    <MESSAGE value="----" />
+    <option name="LAST_COMMIT_MESSAGE" value="----" />
   </component>
 </project>
